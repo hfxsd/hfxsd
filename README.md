@@ -18,5 +18,11 @@ Here are some ideas to get you started:
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hfxsd&starting_year=2017&theme=tokyonight&card_width=500)
 
 <p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/hfxsd/contributions?format=svg" width="350" />
+    </a>
+</p>
+
+<p>
   <img src="https://api.vaunt.dev/v1/github/entities/hfxsd/achievements?format=svg&limit=3" width="350" />
 </p>
