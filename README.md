@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![FX's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfxsd&show_icons=true&theme=tokyonight&include_all_commits=true&number_format=long&rank_icon=percentile&card_width=500) 
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hfxsd&starting_year=2017&theme=tokyonight&card_width=500)
+
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/hfxsd/achievements?format=svg&limit=3" width="350" />
 </p>
